@@ -9,4 +9,5 @@ Dark Mode: A toggle button allows users to switch between light and dark modes f
 
 
 
-![image](https://github.com/user-attachments/assets/a1de820b-6da4-4676-a38e-b70f23ffe828)
+ ![image](https://github.com/user-attachments/assets/a1de820b-6da4-4676-a38e-b70f23ffe828)  ![image](https://github.com/user-attachments/assets/7b187114-6743-4435-b03e-07b0a195a528)
+
