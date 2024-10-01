@@ -1,0 +1,22 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.yourdomain.crypto-calculator
+productName: Crypto Position Calculator
+files:
+  - filter:
+      - dist/**/*
+      - index.html
+win:
+  icon: sina.ico
+  target:
+    - nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  installerIcon: sina.ico
+  uninstallerIcon: sina.ico
+  installerHeaderIcon: sina.ico
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+electronVersion: 25.9.8
