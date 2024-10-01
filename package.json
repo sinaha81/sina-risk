@@ -1,0 +1,44 @@
+{
+  "name": "crypto-calculator",
+  "version": "1.0.0",
+  "description": "Crypto Position Size Calculator with TypeScript",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "postinstall": "electron-builder install-app-deps",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "electron": "^25.0.0",
+    "electron-builder": "^23.0.0",
+    "typescript": "^5.6.2"
+  },
+  "build": {
+    "appId": "com.yourdomain.crypto-calculator",
+    "productName": "Crypto Position Calculator",
+    "files": [
+      "dist/**/*",
+      "index.html"
+    ],
+    "directories": {
+      "buildResources": "build"
+    },
+    "win": {
+      "icon": "sina.ico",
+      "target": [
+        "nsis"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "sina.ico",
+      "uninstallerIcon": "sina.ico",
+      "installerHeaderIcon": "sina.ico",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}
