@@ -1,19 +1,43 @@
 # Crypto Position Size Calculator
 
-Crypto Position Size Calculator
-This is a simple yet powerful web-based Crypto Position Size Calculator that helps traders determine the optimal position size for their trades based on risk, stop loss, leverage, and account size. It allows the user to input key metrics and calculates both the position size in USD and in Bitcoin (BTC).
-___
+# 🚀 پوزیشن منیجر کریپتو – همیار مطمئن معاملات رمزنگاری 🚀
 
-# Features:
-Risk Management: Calculate your position size based on the percentage of risk you want to take per trade.
-Leverage: Support for leverage to help margin traders.
-Stop Loss: Input stop loss percentage to protect your account from larger losses.
-Dark Mode: A toggle button allows users to switch between light and dark modes for better visibility and user experience.
-___
+سلام به همه دوستان کریپتوکار! این پروژه یک ابزار کاربردی و جذابه که با هدف کمک به مدیریت دقیق معاملات در دنیای رمزنگاری طراحی شده. این پوزیشن منیجر هم در قالب فایل نصبی ویندوز (.exe) و هم به صورت برنامه اندرویدی (APK) در دسترس شما قرار داره. 😎🔥
 
-# os :
-android and windows
+# 🎯 ویژگی‌های برتر این ابزار:
+مدیریت ریسک به سبک حرفه‌ای <br/>
+کنترل و مدیریت دقیق ریسک‌ها به شما کمک می‌کنه تا با اعتماد به نفس وارد معامله بشید و از نتایج بهتری لذت ببرید. 💥🔒<br/>
+
+# محاسبه دقیق سایز پوزیشن
+ابزار ما با دقت بالا سایز پوزیشن‌های معاملاتی شما رو محاسبه می‌کنه تا بهترین تصمیم رو در معاملات اتخاذ کنید. 📊📈<br/>
+
+# رابط کاربری جذاب و کاربرپسند
+طراحی مدرن و زیبا همراه با تجربه کاربری عالی، استفاده از ابزار رو لذت‌بخش می‌کنه. 😍🖥️📱<br/>
+
+# دسترسی آسان در چند پلتفرم
+با داشتن نسخه ویندوزی و اندرویدی، می‌تونید در هر زمان و مکانی از این ابزار بهره ببرید. 🌍🚀<br/>
+
+# 🔗 لینک‌های دانلود : <br/>
 ___
+فایل نصب ویندوز (.exe) 🖥️🚀 <br/> 
+https://github.com/sinaha81/sina-risk/releases/download/Risk/Crypto.Position.Size.Calculator.exe
+
+___
+فایل اندروید (APK) 📱🤘<br/>
+https://github.com/sinaha81/sina-risk/releases/download/Risk/Sina.risk.apk
+
+# توضیحات نهایی:
+این پوزیشن منیجر کریپتو یک ابزار همه‌جانبه برای تریدرهای حرفه‌ای و علاقمندان به دنیای رمزنگاریه. با استفاده از این ابزار، می‌تونید ریسک‌های معاملاتی رو مدیریت کنید، سایز پوزیشن‌های خودتون رو دقیق محاسبه کنید و همیشه یک قدم جلوتر از بازار حرکت کنید. استفاده از استیکرهای منحصر به فرد این پروژه حس نوآوری و انرژی رو به شما منتقل می‌کنه؛ درست مثل یک استیکر خفن توی کیف پول دیجیتالتون که همیشه به یادآوری قدرت و موفقیت شما کمک می‌کنه! 😎💥💎 <br/>   <br/>    <br/> 
+<br/>
+با پوزیشن منیجر کریپتو، تجربه‌ای متفاوت از مدیریت معاملات رو تجربه کنید و به اوج موفقیت برسید! 🚀🔥🤘
+
+
+
+
+
+
+
+
 
 ![Screenshot 2024-10-01 102054](https://github.com/user-attachments/assets/6dfeb373-0f5d-4802-b639-9f67e33b02c6)
 ![Screenshot 2024-10-01 102111](https://github.com/user-attachments/assets/3e41c737-4767-499d-a63a-d6aa47e24d7e)
