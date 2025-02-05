@@ -12,9 +12,7 @@ Dark Mode: A toggle button allows users to switch between light and dark modes f
 ___
 
 # os :
-android 
----
-windows
+android and windows
 ___
 
 ![Screenshot 2024-10-01 102054](https://github.com/user-attachments/assets/6dfeb373-0f5d-4802-b639-9f67e33b02c6)
