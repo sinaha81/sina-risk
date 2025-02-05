@@ -38,7 +38,7 @@ https://github.com/sinaha81/sina-risk/releases/download/Risk/Sina.risk.apk
 <table>
   <tr>
     <td><img src="https://github.com/sinaha81/sina-risk/blob/main/image.png" width="300" alt="عکس اول"></td>
-    <td><img src="آScreenshot 2024-10-01 102111](https://github.com/user-attachments/assets/3e41c737-4767-499d-a63a-d6aa47e24d7e" width="300" alt="عکس دوم"></td>
+    <td><img src="https://github.com/sinaha81/sina-risk/blob/main/2.jpg" width="300" alt="عکس دوم"></td>
   </tr>
 </table>
 
