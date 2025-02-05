@@ -29,16 +29,17 @@ https://github.com/sinaha81/sina-risk/releases/download/Risk/Sina.risk.apk
 # توضیحات نهایی:
 این پوزیشن منیجر کریپتو یک ابزار همه‌جانبه برای تریدرهای حرفه‌ای و علاقمندان به دنیای رمزنگاریه. با استفاده از این ابزار، می‌تونید ریسک‌های معاملاتی رو مدیریت کنید، سایز پوزیشن‌های خودتون رو دقیق محاسبه کنید و همیشه یک قدم جلوتر از بازار حرکت کنید. استفاده از استیکرهای منحصر به فرد این پروژه حس نوآوری و انرژی رو به شما منتقل می‌کنه؛ درست مثل یک استیکر خفن توی کیف پول دیجیتالتون که همیشه به یادآوری قدرت و موفقیت شما کمک می‌کنه! 😎💥💎 <br/>   <br/>    <br/> 
 <br/>
-با پوزیشن منیجر کریپتو، تجربه‌ای متفاوت از مدیریت معاملات رو تجربه کنید و به اوج موفقیت برسید! 🚀🔥🤘
+با پوزیشن منیجر کریپتو، تجربه‌ای متفاوت از مدیریت معاملات رو تجربه کنید و به اوج موفقیت برسید! 🚀🔥🤘<br/>
 
 
 
-<div style="display: flex;">
-  <img src="![Screenshot 2024-10-01 102054](https://github.com/user-attachments/assets/6dfeb373-0f5d-4802-b639-9f67e33b02c6)" width="400"/>
-  <img src="![Screenshot 2024-10-01 102111](https://github.com/user-attachments/assets/3e41c737-4767-499d-a63a-d6aa47e24d7e)" width="400"/>
-</div>
 
 
-
+<table>
+  <tr>
+    <td><img src="Screenshot 2024-10-01 102054](https://github.com/user-attachments/assets/6dfeb373-0f5d-4802-b639-9f67e33b02c6" width="300" alt="عکس اول"></td>
+    <td><img src="آScreenshot 2024-10-01 102111](https://github.com/user-attachments/assets/3e41c737-4767-499d-a63a-d6aa47e24d7e" width="300" alt="عکس دوم"></td>
+  </tr>
+</table>
 
 
